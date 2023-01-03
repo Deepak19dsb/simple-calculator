@@ -1,1 +1,1 @@
-visit site -> href="https://deepak19dsb.github.io/simple-calculator/"
+visit site: https://deepak19dsb.github.io/simple-calculator/
